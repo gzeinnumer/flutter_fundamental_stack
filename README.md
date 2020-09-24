@@ -1,6 +1,9 @@
 # flutter_fundamental_stack
 
 A new Flutter application.
+ 
+|<img src="https://github.com/gzeinnumer/flutter_fundamental_stack/blob/master/preview/flutter_fundamental_stack.jpg" width="300" />|
+|--|
 
 ## Getting Started
 
